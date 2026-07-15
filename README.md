@@ -1,16 +1,18 @@
 # Puffin Technologies - Landing Page
 
-A professional, SEO-optimized landing page for Puffin Technologies, a leading web design and digital marketing agency in Sialkot, Pakistan.
+A professional, SEO-optimized landing page for Puffin Technologies, a leading web design and digital marketing agency in Sialkot, Pakistan. 
 
 ## 🌐 Overview
 
-This landing page showcases Puffin Technologies' services including:
-- Web Design & Development
+Puffin Technologies' services including:
+- Website Design & Development
+- eshop Design & Management
 - SEO & Search Engine Optimization
 - Digital Marketing Services
+- Social Media Mangement Services
 - Graphics & Logo Design
-- Web Hosting & Security Solutions
-- IT Solutions & E-commerce Services
+- Web Hosting & Business Email
+- IT Solutions & Support Services
 
 ## 🚀 Features
 
@@ -98,7 +100,8 @@ The landing page is fully responsive and optimized for:
 **Puffin Technologies**
 - **Address**: Afzal Palaza, Shahab Pura Road, Sialkot, Punjab 51310, Pakistan
 - **Phone**: +92 321 6117119 | +92 331 6117119
-- **Email**: uumair@gmx.com
+- **Whatsapp**: +92 321 6117119
+- **Email**: sialkot@protonmail.com
 - **Website**: https://puffintechnologies.com/
 - **Hours**: Monday - Saturday, 11:00 AM - 6:00 PM (PKT)
 
@@ -151,7 +154,7 @@ The landing page is optimized for:
 ## 🤝 Support
 
 For inquiries or support, contact:
-- **Email**: uumair@gmx.com
+- **Email**: sialkot@protonmail.com
 - **Phone**: +92 321 6117119
 - **WhatsApp**: +92 331 6117119
 
