@@ -145,21 +145,7 @@ Puffin Technologies provides comprehensive digital solutions including:
 - Cloud solutions and migration
 - Physical & Hybrid technical support and helpdesk
 
-## 🎯 Why Choose Puffin Technologies
-
-- **20+ Years Experience** - Trusted since 2002
-- **Expert Team** - Skilled professionals in all services
-- **Client-Centric** - Your business success is our priority
-- **Proven Results** - Hundreds of successful projects
-- **24/7 Support** - Always available when you need us
-- **Affordable Pricing** - Quality services within your budget
-- **Comprehensive Solutions** - One-stop shop for all digital needs
-- **Latest Technology** - Always up-to-date with industry trends
-
-
 ## 🔍 SEO Optimization Services 
-
-### On-Page SEO
 - Technical SEO
 - On-Page SEO
 - Off-Page SEO
@@ -188,7 +174,6 @@ Puffin Technologies provides comprehensive digital solutions including:
 - SEO Consultation
 
 ## 📈 SEO Recommendations for All Services
-
 1. **Content Marketing** - Create service-specific blog posts
 2. **Link Building** - Build backlinks from industry directories
 3. **Local Listings** - Add to Google My Business with all services
@@ -197,6 +182,17 @@ Puffin Technologies provides comprehensive digital solutions including:
 6. **Analytics** - Monitor performance of all service pages
 7. **Case Studies** - Showcase successful projects per service
 8. **Testimonials** - Display client reviews for each service
+
+## 🎯 Why Choose Puffin Technologies
+
+- **20+ Years Experience** - Trusted since 2002
+- **Expert Team** - Skilled professionals in all services
+- **Client-Centric** - Your business success is our priority
+- **Proven Results** - Hundreds of successful projects
+- **24/7 Support** - Always available when you need us
+- **Affordable Pricing** - Quality services within your budget
+- **Comprehensive Solutions** - One-stop shop for all digital needs
+- **Latest Technology** - Always up-to-date with industry trends
 
 ## 📋 Contact Information / Help & Support
 
