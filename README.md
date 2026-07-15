@@ -197,12 +197,12 @@ Puffin Technologies provides comprehensive digital solutions including:
 ## 📋 Contact Information / Help & Support
 
 **Puffin Technologies**
-- **Address**: Afzal Palaza, Shahab Pura Road, Sialkot, Punjab 51310, Pakistan
+- **Address**: Office # 9. Afzal Plaza, Shahab Pura Road, Near JS Bank. Sialkot, Punjab 51310, Pakistan
 - **Phone**: +92 321 6117119 | +92 331 6117119
 - **WhatsApp**: +92 321 6117119
 - **Email**: sialkot@protonmail.com | umair@puffintechnologies.com
 - **Website**: https://puffintechnologies.com/
-- **Hours**: Monday - Saturday, 11:00 AM - 6:00 PM (PKT)
+- **Hours**: Monday - Saturday, 12:30 PM - 9:00 PM (PKT)
 
 
 ## 📝 License
